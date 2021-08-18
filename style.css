@@ -204,29 +204,19 @@ a {
   background-color: rgb(165, 166, 200);
 }
 
-#coffee {
-  background-image: url('images/cafe2.png');
+#burger {
+  background-image: url('images/burgerrator.png');
   background-size: cover;
 }
 
-#list {
-  background-image: url('images/todo1.png');
-  background-size: cover;
-  /* padding: 200px 100px; */
-}
-
-#keep {
-  background-image: url('images/keep.png');
+#news {
+  background-image: url('images/news-app.png');
   background-size: cover;
 }
 
-#reactjs {
-  background-image: url('images/reacjs.png');
+#reveno {
+  background-image: url('images/revenoo-app.png');
   background-size: cover;
-}
-
-.box {
-  /* padding: 2rem; */
 }
 
 footer {
