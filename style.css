@@ -210,8 +210,9 @@ a {
 }
 
 #list {
-  background-image: url('images/todo.png');
+  background-image: url('images/todo1.png');
   background-size: cover;
+  /* padding: 200px 100px; */
 }
 
 #keep {
@@ -222,6 +223,10 @@ a {
 #reactjs {
   background-image: url('images/reacjs.png');
   background-size: cover;
+}
+
+.box {
+  /* padding: 2rem; */
 }
 
 footer {
